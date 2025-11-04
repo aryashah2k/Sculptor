@@ -4,7 +4,7 @@ A web-based application for transforming textual concepts into high-quality 2D i
 
 |To progress again, man must remake himself
 |------------------------------------------------------|
-|![sculptor](https://github.com/aryashah2k/Sculptor/blob/main/assets/sculptor.jpg)|
+|![sculptor](https://github.com/aryashah2k/Sculptor/blob/main/samples/sculptor.jpg)|
 
 ## Features
 
