@@ -1,0 +1,6 @@
+nicegui
+openai
+requests
+python-dotenv
+sqlalchemy
+bcrypt

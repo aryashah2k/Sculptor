@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Database
+*.db
+sculptor.db
+
+# Generated files
+generated_model.glb
+custom_model.glb
+*.glb
+*.png
+*.jpg
+
+# Documentation
+*.md
+!README.md
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reference scripts
+reference_scripts/
+
+# Unnecessary docs
+STRIPE_SETUP.md
+QUICKSTART.md
+SETUP_COMPARISON.md
