@@ -15,12 +15,6 @@ venv/
 env/
 ENV/
 
-# Generated files
-generated_model.glb
-*.glb
-*.png
-*.jpg
-
 # IDE
 .vscode/
 .idea/
