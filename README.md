@@ -94,7 +94,7 @@ sculpt/
 - 3D Model Generation:
   - Stable Point Aware 3D: 1 credit (cost-effective, good quality)
   - Stable Fast 3D: 3 credits (premium quality, faster generation)
-- Get 10 credits by entering password: `sculptor`
+- Get 10 credits by entering password
 
 ## Technologies Used
 
