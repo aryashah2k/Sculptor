@@ -10,8 +10,8 @@ A web-based application for transforming textual concepts into high-quality 2D i
 
 1. **User Authentication** - Secure signup/login with bcrypt password hashing
 2. **Credit System** - Simple mock payment system for testing
-3. **Document Analysis** - RAG-powered entity extraction using txtai
-4. **2D Image Generation** - High-quality images via OpenAI DALL-E 3
+3. **Document Analysis** - LLM powered entity extraction
+4. **2D Image Generation** - High quality images via OpenAI DALL-E 3
 5. **3D Model Generation** - Image-to-3D conversion using Stability AI
 
 ## Setup
